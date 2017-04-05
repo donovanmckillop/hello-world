@@ -47,4 +47,4 @@ class Computer
 end
 
 
-my_computer = Computer.new("Donovan69","Fuckthe")
+my_computer = Computer.new("Donovan69","MCkillop")
